@@ -9,5 +9,4 @@ layout: default
 
 I am a P.H.D. student in the [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/).
 
-My research interest includes international economics, spatial economics, and environmental economics.
-
+My research interest includes international economics, spatial economics, and environmental economics. If you need to reach me, please email me at [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
