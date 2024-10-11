@@ -18,7 +18,7 @@ layout: default
 ## Working in Progress
 
 - FDI and productivity
-- Welfare effects of infrastructure
+- Welfare effect of infrastructure
 
 &nbsp;
 ## Publications
