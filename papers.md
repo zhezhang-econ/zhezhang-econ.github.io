@@ -1,16 +1,16 @@
 ---
 title: "Research"
 summary: "Research Summary"
-date: 2024-09-01
+date: 2024-10-11
 layout: default
 ---
 
 ## Working Papers
 
-- Keeping Up with the Joneses: FDI Inflow and Local Industrial Emissions (with Jiawei Mo and Ye Yuan), under review.
-- Steamships and Market Integration: Evidence from the Late Qing China (With Yu Hao and Zhiqiang Wang), 1nd **R&R** at ***Economic Science (in Chinese 经济科学)***.
-- Export and Insurance Premium: Evidence from China (With Chenbin Mao and Zhiqiang Wang), submitted.
-- Migrants and New Firm Entries: Evidence from China (With Jiawei Mo and Zhiqiang Wang).
+- Keeping Up with the Joneses: FDI Inflow and Local Industrial Emissions (with Jiawei Mo and Ye Yuan), **under review**.
+- Steamships and Market Integration: Evidence from the Late Qing China (With Yu Hao and Zhiqiang Wang), **1nd R&R at** ***Economic Science (in Chinese 经济科学)***.
+- Export and Insurance Premium: Evidence from China (With Chenbin Mao and Zhiqiang Wang), **reject & resubmit at** ***Journal of Risk and Insurance***.
+- Unlocking Entrepreneurial Growth: Migrants and New Firm Entry in China (With Jiawei Mo and Zhiqiang Wang), **under review**.
 - Intel's Impact: How A Superstar Firm Makes A Productive City (With Jiawei Mo, Tao Tao, and Hong Zhu).
 
 
