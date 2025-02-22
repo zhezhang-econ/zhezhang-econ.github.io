@@ -1,19 +1,19 @@
 ---
 title: "Research"
 summary: "Research Summary"
-date: 2024-10-11
+date: 2025-02-22
 layout: default
 ---
 
 ## Publications
-1. [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://www.sciencedirect.com/science/article/abs/pii/S0094119024000627) (with Jiawei Mo), ***Journal of Urban Economics***, 2024, 143, 103692.
-
+1. [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://www.sciencedirect.com/science/article/abs/pii/S0094119024000627) (Jiawei Mo* and **Zhe Zhang**), ***Journal of Urban Economics***, 2024, 143, 103692.
+2. [Steamships and Market Integration: Evidence from the Late Qing Chin](https://ccj.pku.edu.cn/article/info?aid=664327856459845) (Yu Hao, Zhiqiang Wang, and **Zhe Zhang**), ***Economic Science (in Chinese 经济科学)***, 2025, 47(01): 215-237.
 
 &nbsp;
 ## Conferences
 
 ### 2024
-
+- The 7th Prospective Economist Forum, Central University of Finance and Economics, Beijing, Award of Outstanding Paper
 - The 10th International Symposium on Quantitative History, Shanghai Jiao Tong University, Shanghai
 - International Economics and Empirical IO Workshop in School of Economics, Peking University, Beijing
 
