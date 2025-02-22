@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: "Brief Intro and Updates."
-date: 2024-09-30
+date: 2025-02-22
 layout: default
 ---
 
@@ -17,4 +17,5 @@ I am a P.H.D. student at the School of Economics in Peking University. If you ne
 
 &nbsp;
 ## Updates
-- In August 2024, my joint work with Jiawei Mo, titled [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://www.sciencedirect.com/science/article/abs/pii/S0094119024000627), is published in ***Journal of Urban Economics***.
+- In Feb. 2025, my joint work with Yu Hao and Zhiqiang Wang, titled [Steamships and Market Integration: Evidence from the Late Qing China](https://ccj.pku.edu.cn/article/info?aid=664327856459845), is published in ***Economic Science (in Chinese 经济科学)***.
+
