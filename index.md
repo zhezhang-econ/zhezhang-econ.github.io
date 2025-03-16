@@ -7,7 +7,7 @@ layout: default
 
 <img src="research/photo-github-round2.jpg" width="10%" >
 
-I am a P.H.D. student at the School of Economics in Peking University. If you need to reach me, please email me at [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
+I am a Ph.D. student at the School of Economics in Peking University. If you need to reach me, please email me at [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
 
 &nbsp;
 ## Research Interest
