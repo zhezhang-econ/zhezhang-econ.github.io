@@ -7,8 +7,8 @@ layout: default
 
 ## Publications
 - [Unlocking Entrepreneurial Growth: Migrants and New Firm Entry in China](https://doi.org/10.1080/13504851.2025.2472033) (Zhiqiang Wang and **Zhe Zhang**\*), ***Applied Economics Letters***, 2025, 1-5.
-- [Steamships and Market Integration: Evidence from the Late Qing Chin](https://ccj.pku.edu.cn/article/info?aid=664327856459845) (Yu Hao, Zhiqiang Wang, and **Zhe Zhang**\*), ***Economic Science (in Chinese 经济科学)***, 2025, 47(01): 215-237.
-- [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://www.sciencedirect.com/science/article/abs/pii/S0094119024000627) (Jiawei Mo\* and **Zhe Zhang**), ***Journal of Urban Economics***, 2024, 143, 103692.
+- [Steamships and Market Integration: Evidence from the Late Qing Dynasty](https://ccj.pku.edu.cn/article/info?aid=664327856459845) (Yu Hao, Zhiqiang Wang, and **Zhe Zhang**\*), ***Economic Science (in Chinese 经济科学)***, 2025, 47(01): 215-237.
+- [Neighboring Capital Imports and Non-Importer Productivity: Evidence from Geocoded Manufacturing Firms in China](https://doi.org/10.1016/j.jue.2024.103692) (Jiawei Mo\* and **Zhe Zhang**), ***Journal of Urban Economics***, 2024, 143, 103692.
 
 
 &nbsp;
