@@ -14,9 +14,8 @@ layout: default
 
 &nbsp;
 ## Research Interest
-- International Economics
-- Spatial Economics
-- Environmental Economics
+- *General Interest*: Regional and Urban Economics, International Economics, Environmental Economics, Economic History
+- *Special Focus*: Urban development, trade and FDI, supply chain, firm productivity, pollution emission, development of modern China
 
   &nbsp;
 ## Contact
