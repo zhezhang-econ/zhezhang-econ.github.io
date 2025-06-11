@@ -5,7 +5,7 @@ date: 2025-06-11
 layout: default
 ---
 
-<img src="research/photo-github-round2.jpg" width="10%" >
+<img src="research/photo-github-round2.jpg" width="15%" >
 
 - Ph.D. student
 - School of Economics, Peking University
