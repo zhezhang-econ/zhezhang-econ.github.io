@@ -13,7 +13,7 @@ layout: default
 &nbsp;
 ## Research Interest
 - **General Interest**: Regional and Urban Economics, International Economics, Environmental Economics, Economic History
-- **Special Focus**: Urban development, trade and FDI, supply chain, firm productivity, pollution emission, development of modern China
+- **Special Focus**: Urban development, trade and FDI, supply chain, firm productivity, development of modern China
 
   &nbsp;
 ## Contact
