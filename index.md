@@ -14,13 +14,13 @@ layout: default
 
 &nbsp;
 ## Research Interest
-- *General Interest* : Regional and Urban Economics, International Economics, Environmental Economics, Economic History
-- *Special Focus* : Urban development, trade and FDI, supply chain, firm productivity, pollution emission, development of modern China
+- **General Interest**: Regional and Urban Economics, International Economics, Environmental Economics, Economic History
+- **Special Focus** : Urban development, trade and FDI, supply chain, firm productivity, pollution emission, development of modern China
 
   &nbsp;
 ## Contact
-- Email: [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn)
-- Address: Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China
+- **Email**: [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn)
+- **Address**: Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China
 
 &nbsp;
 ## Updates
