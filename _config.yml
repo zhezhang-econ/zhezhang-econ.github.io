@@ -1,8 +1,6 @@
 name: ZHANG Zhe 
 description: Personal website
 menu:
- - page: About me
-   url: /about
  - page: Research 
    url: /papers
  - page: Teaching
