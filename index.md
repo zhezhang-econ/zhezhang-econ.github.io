@@ -12,8 +12,6 @@ layout: default
 - Ph.D. student
 - School of Economics, Peking University
 
-I am a Ph.D. student at the School of Economics in Peking University. If you need to reach me, please email me at [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
-
 &nbsp;
 ## Research Interest
 - International Economics
