@@ -1,5 +1,5 @@
 - President Scholarship for Doctoral Students, Peking University, 2025
-- The 15th ``Chen DaiSun Cup'' Innovative Talent Award, School of Economics, Peking University, 2025
+- The 15th "Chen DaiSun Cup" Innovative Talent Award, School of Economics, Peking University, 2025
 - National Scholarship for Doctoral Students, Ministry of Education, China, 2024
 - Award for Academic Contribution and Innovation, Peking University, 2024
 - Chinese Industrial Bank (CIB) Scholarship, Peking University, 2023
