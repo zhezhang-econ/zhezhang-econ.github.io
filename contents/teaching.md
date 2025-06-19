@@ -1,5 +1,4 @@
-** Teaching Assistant
-
+## Teaching Assistant
 **Academic Year 2024-2025**
 
 - Advanced Econometrics II, Peking University, Semester 2
