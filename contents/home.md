@@ -1,16 +1,10 @@
+I am a Ph.D. candidate at [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/).
 
+#### Research Interest
+- **General Interest**: International Economics, Regional and Urban Economics,  Environmental Economics, Economic History.
+- **Special Focus**: Trade and FDI, supply chain, firm productivity, urban development, development of modern China.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Contact
+- **Email**: [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
+- **Address**: Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China.
 
