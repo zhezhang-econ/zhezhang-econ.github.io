@@ -1,13 +1,8 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- President Scholarship for Doctoral Students}, Peking University, 2025
+- The 15th ``Chen DaiSun Cup'' Innovative Talent Award, School of Economics, Peking University. \hfill {2025
+- National Scholarship for Doctoral Students}, Ministry of Education, China, 2024
+- Award for Academic Contribution and Innovation, Peking University, 2024
+- Chinese Industrial Bank (CIB) Scholarship, Peking University, 2023
+- Grand Prize in the 31st Challenge Cup, Peking University, 2023
+- Merit Student, Peking University, 2023-2024
+- National Scholarship for Undergraduates, Ministry of Education, China, 2019
