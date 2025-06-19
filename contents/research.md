@@ -1,5 +1,5 @@
 ## Publications & Forthcomings
-<ol reversed>
+<ol>
   <li>第一项</li>
   <li>第二项</li>
   <li>第三项</li>
