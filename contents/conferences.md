@@ -1,3 +1,7 @@
+### 2025
+- The 8th Lindau Nobel Laureate Meeting, Lindau, Germany
+- Nankai International Economics Forum, Nankai University, Tianjin
+
 ### 2024
 - The 7th Prospective Economist Forum, Central University of Finance and Economics, Beijing, Award of Outstanding Paper
 - The 10th International Symposium on Quantitative History, Shanghai Jiao Tong University, Shanghai
