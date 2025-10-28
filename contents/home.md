@@ -2,7 +2,7 @@ I am a Ph.D. candidate at [School of Economics](https://econ.pku.edu.cn/) at [Pe
 
 #### Research Interest
 - **General Interest**: International Economics, Regional and Urban Economics,  Environmental Economics, Economic History.
-- **Special Focus**: Trade and FDI, supply chain, firm productivity, urban development, development of modern China.
+- **Special Focus**: Trade and FDI, supply chain, productivity estimation, urban development, development of modern China.
 
 #### Contact
 - **Email**: [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
