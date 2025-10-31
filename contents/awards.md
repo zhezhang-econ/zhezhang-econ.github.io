@@ -1,4 +1,4 @@
-- President Scholarship for Doctoral Students, Peking University, 2025
+- PhD Presidential Scholarship, Peking University, 2025
 - National Southwestern Associated University Guocai Scholarship, Peking University, 2025
 - The 15th "Chen DaiSun Cup" Innovative Talent Award, School of Economics, Peking University, 2025
 - National Scholarship for Doctoral Students, Ministry of Education, China, 2024
