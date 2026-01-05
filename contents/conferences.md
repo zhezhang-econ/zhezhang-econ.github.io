@@ -1,5 +1,6 @@
 ### 2025
 - The 8th Lindau Nobel Laureate Meeting, Lindau, Germany
+- NCER-CCER 5th China Economic Conference, Tsinghua University, Beijing
 - Nankai International Economics Forum, Nankai University, Tianjin
 
 ### 2024
