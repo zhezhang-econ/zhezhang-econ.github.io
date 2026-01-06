@@ -1,4 +1,4 @@
-Currently, I am a Ph.D. candidate at [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/).
+Currently, I am a Ph.D. candidate at [School of Economics](https://econ.pku.edu.cn/) at Peking University.
 
 #### Research Interest
 - **General Interest**: International economics, regional and urban economics, development economics.
