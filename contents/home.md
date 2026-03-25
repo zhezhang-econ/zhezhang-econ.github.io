@@ -1,8 +1,8 @@
 Currently, I am a Ph.D. candidate at [School of Economics](https://econ.pku.edu.cn/), Peking University.
 
 #### Research Interest
-- **General Interest**: International economics, regional and urban economics, development economics.
-- **Special Focus**: Trade and FDI, supply chain, productivity estimation, urban development.
+- **General Interest**: International economics, regional and urban economics, empircial IO, development economics.
+- **Special Focus**: Trade and FDI, supply chain, productivity estimation, urban development, corporate social responsibility.
 
 #### Contact
 - **Email**: [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
