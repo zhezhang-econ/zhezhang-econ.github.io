@@ -1,4 +1,4 @@
-Currently, I am a Ph.D. candidate at [School of Economics](https://econ.pku.edu.cn/), Peking University.
+Currently, I am a Posdoc at [School of Economics](https://eco.hust.edu.cn/), Huazhong University of Science and Technology.
 
 #### Research Interest
 - **General Interest**: International economics, regional & urban economics, empircial IO, development economics.
@@ -6,4 +6,4 @@ Currently, I am a Ph.D. candidate at [School of Economics](https://econ.pku.edu.
 
 #### Contact
 - **Email**: [zhezhang@stu.pku.edu.cn](mailto:zhezhang@stu.pku.edu.cn).
-- **Address**: Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China.
+- **Address**: Room 434, School of Economics, Huazhong University of Science and Technology, 1037 Luoyu Road, Wuhan, Hubei, 430074, China.
