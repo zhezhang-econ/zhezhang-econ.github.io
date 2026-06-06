@@ -1,4 +1,4 @@
-Currently, I am a Posdoc at [School of Economics](https://eco.hust.edu.cn/), Huazhong University of Science and Technology.
+Currently, I am a postdoc at [School of Economics](https://eco.hust.edu.cn/), Huazhong University of Science and Technology.
 
 #### Research Interest
 - **General Interest**: International economics, regional & urban economics, empircial IO, development economics.
