@@ -73,19 +73,28 @@
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
     <style>
-        /* 1. 让所有论文列表项使用 Palatino 字体 */
+        /* 1. 让主页的所有普通文本（段落、列表项）统一使用 Palatino 学术经典字体 */
+        .main-body p,
         .main-body li {
             font-family: "Palatino Linotype", "Palatino", "Book Antiqua", "Georgia", serif;
-            font-size: 1.05rem; /* Palatino 视觉上略小，微调放大一点点更清晰 */
-            margin-bottom: 0.6rem; /* 让论文条目之间稍微留点空隙，更美观 */
+            font-size: 1.05rem;     /* 稍微放大至 1.05rem 以保证衬线字体的清晰度 */
+            line-height: 1.5;       /* 优化多行文本的行高 */
+            margin-bottom: 0.6rem;  /* 段落和条目之间保留适当的空隙 */
         }
 
-        /* 2. 让折叠栏里面的摘要实现两端对齐 */
+        /* 2. 让所有普通文本和折叠栏里面的摘要都实现两端对齐 */
+        .main-body p,
         .main-body details h5,
         .main-body details p {
             text-align: justify;
-            text-justify: inter-word; /* 优化英文单词间距 */
-            font-family: "Palatino Linotype", "Palatino", "Book Antiqua", "Georgia", serif; /* 摘要也保持字体一致 */
+            text-justify: inter-word; /* 优化英文单词之间的间距分布 */
+        }
+
+        /* 3. 针对折叠栏内部的 h5 摘要标签单独应用字体（确保与整体一致） */
+        .main-body details h5 {
+            font-family: "Palatino Linotype", "Palatino", "Book Antiqua", "Georgia", serif;
+            font-size: 1.05rem;
+            line-height: 1.5;
         }
     </style>
 
