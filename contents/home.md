@@ -5,5 +5,5 @@ Currently, I am a postdoc at [School of Economics](https://eco.hust.edu.cn/), Hu
 - **Special Focus**: Global production networks, quantative spatial model, firm productivity & market power.
 
 #### Contact
-- **Email**: [zhezhang@alumni.pku.edu.cn](mailto:zhezhang@alumni.pku.edu.cn).
+- **Email**: [zhezhang@hust.edu.cn](mailto:zhezhang@hust.edu.cn).
 - **Address**: Room 434, School of Economics, Huazhong University of Science and Technology, 1037 Luoyu Road, Wuhan, Hubei, 430074, China.
